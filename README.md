@@ -20,7 +20,7 @@ limitations under the License.
 
 # sdsnansumpw
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the sum of single-precision floating-point strided array elements, ignoring `NaN` values and using pairwise summation with extended accumulation.
 
@@ -197,12 +197,12 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dsnansumpw`][@stdlib/blas/ext/base/dsnansumpw]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using pairwise summation with extended accumulation, and returning an extended precision result.
--   [`@stdlib/blas/ext/base/dnansumpw`][@stdlib/blas/ext/base/dnansumpw]: calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.
--   [`@stdlib/blas/ext/base/gnansumpw`][@stdlib/blas/ext/base/gnansumpw]: calculate the sum of strided array elements, ignoring NaN values and using pairwise summation.
--   [`@stdlib/blas/ext/base/sdsnansum`][@stdlib/blas/ext/base/sdsnansum]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using extended accumulation.
--   [`@stdlib/blas/ext/base/sdssumpw`][@stdlib/blas/ext/base/sdssumpw]: calculate the sum of single-precision floating-point strided array elements using pairwise summation with extended accumulation.
--   [`@stdlib/blas/ext/base/snansumpw`][@stdlib/blas/ext/base/snansumpw]: calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dsnansumpw`][@stdlib/blas/ext/base/dsnansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using pairwise summation with extended accumulation, and returning an extended precision result.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/dnansumpw`][@stdlib/blas/ext/base/dnansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of double-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gnansumpw`][@stdlib/blas/ext/base/gnansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of strided array elements, ignoring NaN values and using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/sdsnansum`][@stdlib/blas/ext/base/sdsnansum]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using extended accumulation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/sdssumpw`][@stdlib/blas/ext/base/sdssumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using pairwise summation with extended accumulation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/snansumpw`][@stdlib/blas/ext/base/snansumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements, ignoring NaN values and using pairwise summation.</span>
 
 </section>
 
@@ -253,8 +253,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-sdsnansumpw/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-sdsnansumpw?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-sdsnansumpw.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-sdsnansumpw/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
