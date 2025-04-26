@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-23)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`0112c32`](https://github.com/stdlib-js/stdlib/commit/0112c32c3b97b681d32915a72d5dc4b5a3f7be31) - **feat:** add C `ndarray` API and refactor `blas/ext/sdsnansumpw` [(#4821)](https://github.com/stdlib-js/stdlib/pull/4821) _(by Muhammad Haris, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`e454c91`](https://github.com/stdlib-js/stdlib/commit/e454c91ae2af928b61effcddadb31548758f8675) - **chore:** improve code style and conditionals _(by Philipp Burckhardt)_
